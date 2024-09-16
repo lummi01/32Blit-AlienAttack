@@ -1,6 +1,6 @@
 # Alien Attack
 ![](/assets/image.png)<BR>
-Stay alive as long as you can!
+Stay alive as long as you can!<BR>
 
 ![](/assets/AlienAttack0.bmp)
 
